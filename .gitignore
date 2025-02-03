@@ -1,0 +1,11 @@
+# Ignorar pastas de build em todos os projetos
+**/bin/
+**/obj/
+**/out/
+
+# Configurações do Visual Studio
+**/.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
